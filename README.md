@@ -4,7 +4,7 @@
 
 #### [Deployed app]()
 
-![app-demo](./public/pathfinding-visualizer.gif)
+![app-demo](./public/pathfinding-visualizer.mp4)
 
 ### Get Started From Scratch
 
