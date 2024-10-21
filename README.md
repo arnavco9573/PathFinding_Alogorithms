@@ -2,7 +2,7 @@
 
 ### React + TypeScript + Tailwind
 
-#### [Deployed app]()
+#### [Deployed app](https://pathfinding-algos-in-ai.netlify.app/)
 
 ![app-demo](./public/pathfinding-visualizer.gif)
 
